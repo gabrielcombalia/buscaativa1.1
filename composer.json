@@ -1,0 +1,16 @@
+{
+    "name": "gabri/app3",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Gabri\\App3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gabrielcombalia",
+            "email": "gabrielcombalia@hotmail.com"
+        }
+    ],
+    "require": {}
+}
